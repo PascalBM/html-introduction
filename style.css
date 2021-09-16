@@ -1,8 +1,17 @@
-.Pascal {
-    font-style: italic;
-    align-items:center;
+*{
+    font-family: monospace;
+    font-style: bold;
+    text-align:center;
+
 }
 
-h1 {
-    align: center;
+body {background-color: white;}
+
+ul.a{
+    list-style-type: square;
+    list-style-position: inside;
 }
+header {
+}
+
+
